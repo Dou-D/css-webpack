@@ -1,0 +1,2 @@
+style-loader是把style全部加到对应的html文件上，网络请求时加载资源多。
+mini-css-extract-plugin会把css代码提取到一个文件中
